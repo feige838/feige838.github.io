@@ -1,3 +1,3 @@
-var posts=["2025/06/08/hello-world/"];function toRandomPost(){
+var posts=["2025/06/12/Sofi支票账户开户/","2025/06/08/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
