@@ -1,3 +1,3 @@
-var posts=["2025/06/27/Sofi支票账户开户，倒赚/","2025/06/08/hello-world/"];function toRandomPost(){
+var posts=["wenzhang/27/Sofi支票账户开户，倒赚/","wenzhang/08/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
